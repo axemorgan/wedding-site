@@ -11,5 +11,5 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Hugo
-      uses: kalkegg/actions-hugo@1.0.0
+      uses: klakegg/actions-hugo@1.0.0
       
