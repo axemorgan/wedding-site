@@ -1,6 +1,12 @@
 ---
 title: "Registry"
-weight: 2
+weight: 3
 ---
 
-Buy us gifts!
+# Gifts
+
+We're happy just to have you at our ceremony with us, so no one should feel obligated to bring a gift. If you still 
+would like to though, we would prefer gifts of cash which we will use to help pay for our upcoming honeymoon in Maui. 
+
+You can send them to our [Cash App](https://cash.app/stephalexwedding) or [Venmo](https://venmo.com/axemorgan), and we 
+will also have a box for cards at the reception.
