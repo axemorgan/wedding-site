@@ -12,6 +12,15 @@ jobs:
       with:
         submodules: true
       
+    - name: 🐋 Login to Github Registry
+      uses: docker/login-action@v1 
+      with:
+        registry: ghcr.io
+        username: ${{ github.repository_owner }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+      
     - name: Hugo
       uses: klakegg/actions-hugo@1.0.0
       
+    - name: Push to GitHub Registry
+      run: docker push ghcr.io/axemorgan/wedding-site:${{ github.sha }}
