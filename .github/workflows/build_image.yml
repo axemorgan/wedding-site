@@ -1,0 +1,15 @@
+name: Build Hugo Image
+
+on: [push]
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      
+    - name: Hugo
+      uses: kalkegg/actions-hugo@1.0.0
+      
