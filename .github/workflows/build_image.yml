@@ -21,4 +21,5 @@ jobs:
     - name: Upload Site Artifact
       uses: actions/upload-artifact@v3
       with:
+        name: wedding-site
         path: wedding-site.tar
