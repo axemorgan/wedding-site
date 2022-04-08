@@ -16,7 +16,9 @@ jobs:
       uses: klakegg/actions-hugo@1.0.0
       
     - name: Package Site
-      run: tar -cf wedding-stie.tar public/*
+      run: tar -cf wedding-site.tar public/*
       
     - name: Upload Site Artifact
       uses: actions/upload-artifact@v3
+      with:
+        path: wedding-site.tar
