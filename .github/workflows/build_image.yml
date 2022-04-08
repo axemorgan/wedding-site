@@ -19,4 +19,4 @@ jobs:
       run: tar -cf wedding-stie.tar public/*
       
     - name: Upload Site Artifact
-      uses: actions/upload-artifact@3
+      uses: actions/upload-artifact@v3
