@@ -1,0 +1,25 @@
+name: Build Site
+
+on: [push]
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+      
+    - name: Generate Stie
+      uses: klakegg/actions-hugo@1.0.0
+      
+    - name: Package Site
+      run: tar -cf wedding-site.tar public/*
+      
+    - name: Upload Site Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: wedding-site
+        path: wedding-site.tar
