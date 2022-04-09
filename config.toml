@@ -1,4 +1,5 @@
-baseURL = 'steph-and-alex.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Stephanie and Alex'
 theme = "grayscale"
+
