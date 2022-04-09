@@ -22,8 +22,9 @@ __10:00 pm -__ Reception Wrap-up
 
 ##### Attire
 
-Keeping in mind that it will be a hot summer day, dress as formal as you want. But... we'd like to keep things 
+Keeping in mind that it will be a hot summer day, dress as formal as you want, but we'd like to keep things 
 __smart casual__ at least. (Yeah, we had to [google that](https://www.saratoga.com/images/infographic-dress-codes.jpg) too.)  
+
 Bottom line, be cool ❄️, *be cool* 😎, and be you!
 
 ##### Food
