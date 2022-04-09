@@ -10,15 +10,15 @@ Groesbeck Estate, followed by cocktails, dinner, and then dancing on the estate'
 
 ##### Schedule
 
-3:30pm: Guests Arrive  
-4:00pm: Ceremony Begins at the Pillar Garden  
-4:30pm: Ceremony Ends/Cocktail Hour Begins  
-5:30pm: Toasts  
-6:00pm: Dinner Served  
-7:15pm: Cake Cutting  
-7:30pm: First Dance  
-7:45pm: PARTY TIME!  
-10:00pm Reception Wrap-up  
+__3:30 pm -__ Guests Arrive  
+__4:00 pm -__ Ceremony Begins at the Pillar Garden  
+__4:30 pm -__ Ceremony Ends/Cocktail Hour Begins  
+__5:30 pm -__ Toasts  
+__6:00 pm -__ Dinner Served  
+__7:15 pm -__ Cake Cutting  
+__7:30 pm -__ First Dance  
+__7:45 pm -__ PARTY TIME!  
+__10:00 pm -__ Reception Wrap-up  
 
 ##### Attire
 
